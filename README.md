@@ -1,182 +1,117 @@
+<!-- =========================
+     PREMIUM AI ENGINEER HEADER
+========================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=ALLAM%20VENKATA%20MANI%20KUMAR&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20🚀&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=ALLAM%20VENKATA%20MANI%20KUMAR&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Computer+Science+Student;Flutter+Developer;AI+Research+Enthusiast;Exploring+Generative+AI;Building+The+Future+With+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Building+Intelligent+Solutions;Exploring+Generative+AI;Flutter+Developer;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA1bnVtaDJnNnB0d3VqOWR4M3I4dWpkZnB5OHl4Z3R1eGd2MG9hYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
-</p>
+<!-- HOLOGRAPHIC DIVIDER -->
 
-<h3 align="center">🚀 Aspiring AI Engineer | Computer Science Student | Flutter Developer</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212750654-fd1d5f8d-7f63-4b6e-9c16-6e8d8d7d4f87.gif" width="100%">
 
-<p align="center">
-  <a href="https://github.com/allamvenkatamanikumar">
-    <img src="https://komarev.com/ghpvc/?username=allamvenkatamanikumar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# 🙋‍♂️ About Me
-
-I am **Allam Venkata Mani Kumar**, a passionate **Computer Science and Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, Mobile App Development, and Generative AI**.
-
-I enjoy building innovative solutions, exploring cutting-edge technologies, and continuously improving my technical expertise through hands-on projects and real-world learning experiences.
-
-- 🎓 B.Tech in Computer Science and Engineering
-- 🏫 Prakasam Engineering College
-- 🌱 Learning Flutter, Dart, Generative AI & Mobile App Development
-- 🤖 Passionate about AI Research and Intelligent Systems
-- 🚀 Goal: Become a World-Class AI Engineer
-- 📍 Ongole, Andhra Pradesh, India
-- ⚡ Fun Fact: I love exploring new technologies and AI tools
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,html,git,github,vscode,eclipse&perline=9"/>
-</p>
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Technologies
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Artificial%20Intelligence-blue?style=for-the-badge)
-
----
-
-# 💼 Experience
-
-## 📱 Mobile App Development (Flutter) Intern — Beeskilled
-
-- Developed Flutter-based mobile applications
-- Improved UI/UX implementation skills
-- Worked on real-world development workflows
-- Enhanced debugging and problem-solving capabilities
-
----
-
-# 🚀 Featured Projects
+<!-- AI CODER ANIMATION -->
 
 <div align="center">
 
-### 🔨 AI & Flutter Projects Coming Soon
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1f-82e0-b84f7c9d8f5a.gif" width="500"/>
 
 </div>
 
-Currently building projects in:
+---
 
-- 🤖 Artificial Intelligence
-- 🧠 Generative AI
-- 📱 Flutter Development
-- 💻 Mobile Applications
+# 🤖 About Me
+
+I am **Allam Venkata Mani Kumar**, a Computer Science student passionate about Artificial Intelligence, Generative AI, and Mobile Application Development.
+
+My goal is to become an AI Engineer capable of building intelligent systems that solve real-world challenges through innovation and technology.
+
+- 🎓 B.Tech CSE @ Prakasam Engineering College
+- 🤖 Aspiring AI Engineer
+- 📱 Flutter Developer
+- 🌱 Learning Generative AI
+- 🔍 Interested in AI Research
+- 💡 Love exploring new technologies
+
+---
+
+# ⚡ AI Tech Ecosystem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,html,git,github,vscode,eclipse&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=allamvenkatamanikumar&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=allamvenkatamanikumar&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allamvenkatamanikumar&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=allamvenkatamanikumar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=allamvenkatamanikumar&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=allamvenkatamanikumar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=allamvenkatamanikumar&theme=react-dark"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allamvenkatamanikumar&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/allamvenkatamanikumar/allamvenkatamanikumar/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allamvenkatamanikumar&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allamvenkatamanikumar&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏅 Achievements & Certifications
-
-🏆 IBM Python for Data Science
-
-🏆 AI Skills Passport (EY & Microsoft)
-
-🏆 Business Intelligence Internship – ExcelR
-
----
-
-# 📚 Currently Learning
-
-- Flutter
-- Dart
-- Mobile App Development
-- Generative AI
-- AI Engineering Concepts
-
----
-
-# 🤝 Open To Collaborate On
-
-✅ Open Source Projects
-
-✅ Internship Opportunities
-
-✅ Startup Collaborations
-
-✅ Full-Time Opportunities
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/allamvenkatamanikumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/allamvenkatamanikumar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/avmk_official_0727">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="mailto:avmk0727@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://www.instagram.com/avmk_official_0727">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 </p>
 
 ---
 
-# 💭 AI Engineer Mindset
+<div align="center">
 
-> "Artificial Intelligence is not just about building smart machines; it's about creating intelligent solutions that make life better."
+### 🚀 Building the Future with Artificial Intelligence
+
+<img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a8d7-7a56-4d2f-8f2e-2a6df2d7e6f6.gif" width="250">
+
+</div>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
